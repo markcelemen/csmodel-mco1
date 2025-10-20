@@ -1,4 +1,4 @@
-# 🎓 Student Performance Factors Analytics 📊
+# 🎓 Student Performance Factors Case Study 📊
 
 ## Project Overview 🌍
 
