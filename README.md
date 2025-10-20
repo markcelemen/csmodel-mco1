@@ -175,4 +175,4 @@ We welcome contributions to improve the project:
 
 ## License 📄
 
-This project is available for educational and research purposes.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
