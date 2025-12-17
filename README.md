@@ -4,6 +4,8 @@
 
 **Student Performance Factors Analysis** is a data analysis project designed to identify and understand the **key factors influencing student academic performance**. Using **Python**, **pandas**, **numpy**, **matplotlib**, and **seaborn**, the project explores relationships between **study habits**, **socioeconomic conditions**, and **access to learning resources** to reveal patterns that affect exam outcomes.
 
+**Part 2 of Student Performance Factors Analysis:** [Link](https://github.com/markcelemen/csmodel-mco2)
+
 > **Thesis Statement:**
 > *The study habits correlate, determine, and predict the exam scores of students based on the number of study hours per day and their access to educational resources.*
 
