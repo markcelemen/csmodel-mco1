@@ -6,6 +6,8 @@
 
 **Part 2 of Student Performance Factors Analysis:** [Link](https://github.com/markcelemen/csmodel-mco2)
 
+**Presentation Deck:** [View Project Slides on Canva](https://www.canva.com/design/DAG2DGCoZBs/T--YiXR2JlyI_JP2nYdb3Q/view?utm_content=DAG2DGCoZBs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h37e88bd6fd)
+
 > **Thesis Statement:**
 > *The study habits correlate, determine, and predict the exam scores of students based on the number of study hours per day and their access to educational resources.*
 
@@ -106,7 +108,6 @@ Specifically, the analysis tests:
   4. **Study hours and educational resource access:** Analysis of the correlation between weekly study hours and access to educational materials, including how these factors impact exam scores.
   5. **Combined impact on performance:** Evaluation of how socioeconomic status and study behaviors collectively relate to and influence student academic performance.
 * **Data Visualizations** showcasing factor correlations.
-* **Presentation Deck:** [View Project Slides on Canva](https://www.canva.com/design/DAG2DGCoZBs/T--YiXR2JlyI_JP2nYdb3Q/view?utm_content=DAG2DGCoZBs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h37e88bd6fd)
 
 ---
 
